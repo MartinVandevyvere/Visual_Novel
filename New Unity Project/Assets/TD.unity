@@ -888,8 +888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3d1d4092371231418761d908cdb2ed2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TextDialog: "Les deux camps s'affrontent sans cesse, alors que nous sommes les
-    deux facettes d'une m\xEAme pi\xE8ce."
+  TextDialog: ???
   TextNameCharacter: Lilith
   SpriteCharacter: {fileID: 21300000, guid: 784c711c84ef2ff48b9af334108378ec, type: 3}
   SpriteIA: {fileID: 21300000, guid: 19941863e3d7d7d4d8720e74061fa6d0, type: 3}
