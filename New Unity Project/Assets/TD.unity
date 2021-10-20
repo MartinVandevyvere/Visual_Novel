@@ -554,7 +554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3d1d4092371231418761d908cdb2ed2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TextDialog: "L'amour du tout puissant envers ses enfants les anges et les d\xE9mons."
+  TextDialog: test plz
   TextNameCharacter: Lilith
   SpriteCharacter: {fileID: 21300000, guid: 74d87b6f14b0f4e4da2d0e3feb8d091c, type: 3}
   SpriteIA: {fileID: 21300000, guid: 784c711c84ef2ff48b9af334108378ec, type: 3}
